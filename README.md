@@ -84,11 +84,3 @@ If we feel brave enough:
 
 
 
-Contributing
-------------
-
-This is a personal learning project, and even though it hasn't been updated for a long time, I still have hopes to get into it at some point.
-
-I'm thankful to all those who have pointed out bugs and submitted pull requests. I will need some time to review everything and I cannot guarantee that at this moment.
-
-Please feel free to fork this repo. If many of you are interested in continuing the project, let me know and I'll link the "main fork" from here.
